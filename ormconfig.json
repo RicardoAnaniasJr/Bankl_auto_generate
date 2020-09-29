@@ -1,0 +1,14 @@
+[
+  {
+    "name": "default",
+    "type": "mssql",
+    "host": "DSK-PCH-HD_0001TESTE",
+    "port": 1433,
+    "username": "dbadmin",
+    "password": "Ricardo47",
+    "database": "bankl",
+    "schema": "dbo",
+    "synchronize": false,
+    "entities": ["entities/*.js"]
+  }
+]
